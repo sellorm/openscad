@@ -1,0 +1,6 @@
+^openscad\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^.*\.scad$
+^.*\.stl$
+^openscad_r_logo.R$
